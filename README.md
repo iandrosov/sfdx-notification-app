@@ -1,2 +1,9 @@
-# sfdx-notification-app
-Salesforce Lightning notification app
+# SFDX App
+
+## Dev, Build and Test
+
+## Resources
+
+## Description of Files and Directories
+
+## Issues
