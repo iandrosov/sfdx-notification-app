@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Event used to notify system events for the app such as errors or important alerts</description>
+    <eventType>HighVolume</eventType>
+    <label>System Notification</label>
+    <pluralLabel>System Notifications</pluralLabel>
+</CustomObject>
